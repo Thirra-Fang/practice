@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "test_20220312_2_SWF2/1.0.0": {
+        "runtime": {
+          "test_20220312_2_SWF2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test_20220312_2_SWF2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

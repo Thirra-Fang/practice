@@ -1,0 +1,16 @@
+D:\netcoreworkspace\test_20220312_2_SWF2\obj\Debug\net5.0\test_20220312_2_SWF2.csprojAssemblyReference.cache
+D:\netcoreworkspace\test_20220312_2_SWF2\obj\Debug\net5.0\test_20220312_2_SWF2.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcoreworkspace\test_20220312_2_SWF2\obj\Debug\net5.0\test_20220312_2_SWF2.AssemblyInfoInputs.cache
+D:\netcoreworkspace\test_20220312_2_SWF2\obj\Debug\net5.0\test_20220312_2_SWF2.AssemblyInfo.cs
+D:\netcoreworkspace\test_20220312_2_SWF2\obj\Debug\net5.0\test_20220312_2_SWF2.csproj.CoreCompileInputs.cache
+D:\netcoreworkspace\test_20220312_2_SWF2\bin\Debug\net5.0\test_20220312_2_SWF2.exe
+D:\netcoreworkspace\test_20220312_2_SWF2\bin\Debug\net5.0\test_20220312_2_SWF2.deps.json
+D:\netcoreworkspace\test_20220312_2_SWF2\bin\Debug\net5.0\test_20220312_2_SWF2.runtimeconfig.json
+D:\netcoreworkspace\test_20220312_2_SWF2\bin\Debug\net5.0\test_20220312_2_SWF2.runtimeconfig.dev.json
+D:\netcoreworkspace\test_20220312_2_SWF2\bin\Debug\net5.0\test_20220312_2_SWF2.dll
+D:\netcoreworkspace\test_20220312_2_SWF2\bin\Debug\net5.0\ref\test_20220312_2_SWF2.dll
+D:\netcoreworkspace\test_20220312_2_SWF2\bin\Debug\net5.0\test_20220312_2_SWF2.pdb
+D:\netcoreworkspace\test_20220312_2_SWF2\obj\Debug\net5.0\test_20220312_2_SWF2.dll
+D:\netcoreworkspace\test_20220312_2_SWF2\obj\Debug\net5.0\ref\test_20220312_2_SWF2.dll
+D:\netcoreworkspace\test_20220312_2_SWF2\obj\Debug\net5.0\test_20220312_2_SWF2.pdb
+D:\netcoreworkspace\test_20220312_2_SWF2\obj\Debug\net5.0\test_20220312_2_SWF2.genruntimeconfig.cache
