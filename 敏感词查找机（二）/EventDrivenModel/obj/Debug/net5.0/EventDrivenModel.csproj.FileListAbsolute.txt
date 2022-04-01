@@ -1,0 +1,16 @@
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\obj\Debug\net5.0\EventDrivenModel.csprojAssemblyReference.cache
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\obj\Debug\net5.0\EventDrivenModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\obj\Debug\net5.0\EventDrivenModel.AssemblyInfoInputs.cache
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\obj\Debug\net5.0\EventDrivenModel.AssemblyInfo.cs
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\obj\Debug\net5.0\EventDrivenModel.csproj.CoreCompileInputs.cache
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\bin\Debug\net5.0\EventDrivenModel.exe
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\bin\Debug\net5.0\EventDrivenModel.deps.json
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\bin\Debug\net5.0\EventDrivenModel.runtimeconfig.json
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\bin\Debug\net5.0\EventDrivenModel.runtimeconfig.dev.json
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\bin\Debug\net5.0\EventDrivenModel.dll
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\bin\Debug\net5.0\ref\EventDrivenModel.dll
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\bin\Debug\net5.0\EventDrivenModel.pdb
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\obj\Debug\net5.0\EventDrivenModel.dll
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\obj\Debug\net5.0\ref\EventDrivenModel.dll
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\obj\Debug\net5.0\EventDrivenModel.pdb
+D:\netcoreworkspace\敏感词查找机（二）\EventDrivenModel\obj\Debug\net5.0\EventDrivenModel.genruntimeconfig.cache

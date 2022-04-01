@@ -1,0 +1,3 @@
+Hello Thirra！
+world
+C#的Hello Thirra 很简单

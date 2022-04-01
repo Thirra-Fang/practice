@@ -1,0 +1,16 @@
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\obj\Debug\net5.0\TPLDataFlow.csprojAssemblyReference.cache
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\obj\Debug\net5.0\TPLDataFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\obj\Debug\net5.0\TPLDataFlow.AssemblyInfoInputs.cache
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\obj\Debug\net5.0\TPLDataFlow.AssemblyInfo.cs
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\obj\Debug\net5.0\TPLDataFlow.csproj.CoreCompileInputs.cache
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\bin\Debug\net5.0\TPLDataFlow.exe
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\bin\Debug\net5.0\TPLDataFlow.deps.json
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\bin\Debug\net5.0\TPLDataFlow.runtimeconfig.json
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\bin\Debug\net5.0\TPLDataFlow.runtimeconfig.dev.json
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\bin\Debug\net5.0\TPLDataFlow.dll
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\bin\Debug\net5.0\ref\TPLDataFlow.dll
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\bin\Debug\net5.0\TPLDataFlow.pdb
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\obj\Debug\net5.0\TPLDataFlow.dll
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\obj\Debug\net5.0\ref\TPLDataFlow.dll
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\obj\Debug\net5.0\TPLDataFlow.pdb
+D:\netcoreworkspace\敏感词查找机（二）\TPLDataFlow\obj\Debug\net5.0\TPLDataFlow.genruntimeconfig.cache

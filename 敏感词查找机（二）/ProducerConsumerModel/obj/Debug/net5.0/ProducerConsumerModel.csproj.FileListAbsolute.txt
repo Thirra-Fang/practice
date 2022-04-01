@@ -1,0 +1,16 @@
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\obj\Debug\net5.0\ProducerConsumerModel.csprojAssemblyReference.cache
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\obj\Debug\net5.0\ProducerConsumerModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\obj\Debug\net5.0\ProducerConsumerModel.AssemblyInfoInputs.cache
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\obj\Debug\net5.0\ProducerConsumerModel.AssemblyInfo.cs
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\obj\Debug\net5.0\ProducerConsumerModel.csproj.CoreCompileInputs.cache
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\bin\Debug\net5.0\ProducerConsumerModel.exe
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\bin\Debug\net5.0\ProducerConsumerModel.deps.json
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\bin\Debug\net5.0\ProducerConsumerModel.runtimeconfig.json
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\bin\Debug\net5.0\ProducerConsumerModel.runtimeconfig.dev.json
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\bin\Debug\net5.0\ProducerConsumerModel.dll
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\bin\Debug\net5.0\ref\ProducerConsumerModel.dll
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\bin\Debug\net5.0\ProducerConsumerModel.pdb
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\obj\Debug\net5.0\ProducerConsumerModel.dll
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\obj\Debug\net5.0\ref\ProducerConsumerModel.dll
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\obj\Debug\net5.0\ProducerConsumerModel.pdb
+D:\netcoreworkspace\敏感词查找机（二）\ProducerConsumerModel\obj\Debug\net5.0\ProducerConsumerModel.genruntimeconfig.cache
