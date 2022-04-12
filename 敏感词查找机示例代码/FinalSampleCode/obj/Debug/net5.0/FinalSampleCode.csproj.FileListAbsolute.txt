@@ -1,0 +1,16 @@
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\bin\Debug\net5.0\FinalSampleCode.exe
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\bin\Debug\net5.0\FinalSampleCode.deps.json
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\bin\Debug\net5.0\FinalSampleCode.runtimeconfig.json
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\bin\Debug\net5.0\FinalSampleCode.runtimeconfig.dev.json
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\bin\Debug\net5.0\FinalSampleCode.dll
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\bin\Debug\net5.0\ref\FinalSampleCode.dll
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\bin\Debug\net5.0\FinalSampleCode.pdb
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\obj\Debug\net5.0\FinalSampleCode.csprojAssemblyReference.cache
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\obj\Debug\net5.0\FinalSampleCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\obj\Debug\net5.0\FinalSampleCode.AssemblyInfoInputs.cache
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\obj\Debug\net5.0\FinalSampleCode.AssemblyInfo.cs
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\obj\Debug\net5.0\FinalSampleCode.csproj.CoreCompileInputs.cache
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\obj\Debug\net5.0\FinalSampleCode.dll
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\obj\Debug\net5.0\ref\FinalSampleCode.dll
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\obj\Debug\net5.0\FinalSampleCode.pdb
+D:\netcoreworkspace\敏感词查找机示例代码\FinalSampleCode\obj\Debug\net5.0\FinalSampleCode.genruntimeconfig.cache
